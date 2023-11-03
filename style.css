@@ -1,10 +1,20 @@
 #contact iframe
 {
-    width: 100%;
+    width: 75%;
 }
-#imagem1canela {
-    width: 500px;
+img {
+width: 300px;
+
 }
+
+     
+
 body {
-    text-align: center;
+    text-align: center !important;
+font-size: 20px;}
+#Historias{
+    font-size: 20px;
+}
+#blog {
+    font-size: 20px;
 }
